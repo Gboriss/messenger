@@ -14,13 +14,13 @@
     margin-top: 100px;
 }
 
-.v-main-wrapper {
+.main-wrapper {
     padding: $spacer*2;
     max-width: 400px;
     margin: 0 auto;
 }
 
-.v-bottom-nav {
+.bottom-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,7 +37,7 @@
     }
 }
 
-.v-header {
+.header {
     height: 50px;
     display: flex;
     align-items: center;
@@ -62,7 +62,7 @@
     }
 }
 
-.v-contact-user {
+.contact-user {
     display: flex;
     justify-content: space-between;
     align-items: center;
